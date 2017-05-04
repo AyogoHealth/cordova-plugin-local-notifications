@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-local-notification",
+  "version": "0.8.2-dev",
+  "description": "Cordova plugin for local notification",
+  "private": false,
+  "cordova": {
+    "id": "de.appplant.cordova.plugin.local-notification",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "iOS",
+    "Android",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova-android": ">=4.0.0",
+        "cordova-ios": ">= 4.2.0"
+      }
+    }
+  }
+}
